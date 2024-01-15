@@ -4,3 +4,8 @@ Packages/*
 roblox.toml
 rotriever.lock
 *.rbxmx
+
+/node_modules
+/out
+/include
+*.tsbuildinfo
